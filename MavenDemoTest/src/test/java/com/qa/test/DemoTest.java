@@ -23,7 +23,7 @@ public class DemoTest {
 
 	@Test
 	public void test4() {
-		System.out.println("Validate user name");
+		System.out.println("Validate user1 name");
 	}
 
 }
